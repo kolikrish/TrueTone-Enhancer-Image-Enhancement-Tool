@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: 'renda';
+    src: url(../fonts/Renda.ttf);
+}
+
+@font-face {
+    font-family: 'beauti';
+    src: url(../fonts/BeautyMountainsPersonalUse-od7z.ttf);
+}
+
+@font-face {
+    font-family: 'vogue';
+    src: url(../fonts/Classy\ Vogue\ Stylish\ Serif\ Font.otf);
+}
+
