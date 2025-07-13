@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const API_KEY = "wxbjeejd6bfij10sd"; // Replace with your actual API key
-const BASE_URL = "https://techhk.aoscdn.com/";
+const API_KEY = import.meta.env.API_KEY; // Replace with your actual API key
+const BASE_URL = import.meta.env.BASE_URL;
 const MAXIMUM_RETRIES = 20;
 
 export const enhancedImageAPI = async (file) => {
