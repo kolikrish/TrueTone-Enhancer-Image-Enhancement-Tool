@@ -1,12 +1,42 @@
-# React + Vite
+# 🎨 TrueTone Enhancer – AI-Powered Image Enhancement Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**TrueTone Enhancer** is an AI-powered image enhancement tool built using **React**. It allows users to upload low-quality or dull images and transform them into sharper, more vivid visuals using an external **image enhancement API**. Designed with a focus on clarity and simplicity, this app helps users enhance images instantly in the browser.
 
-Currently, two official plugins are available:
+🔗 **Live Preview**: [https://true-tone-enhancer-image-enhancemen.vercel.app/](https://true-tone-enhancer-image-enhancemen.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🖼️ Upload and preview low-quality images
+- ⚡ One-click enhancement using an AI API
+- 🧠 Enhanced image quality (sharpening, clarity, brightness)
+- 📥 Download enhanced image output
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React
+- **Styling**: Tailwind CSS (if used)
+- **Enhancement Engine**: External Image Enhancement API
+- **Hosting**: Vercel
+
+---
+
+## 📦 Installation & Setup
+
+### Prerequisites
+
+Make sure you have the following:
+
+- Node.js v18+
+- npm or yarn
+  
+---
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/true-tone-enhancer.git
+cd true-tone-enhancer
